@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MRKCTRL
-- 👀 I’m interested in Cyber secruity
-- 🌱 I’m currently learning Coding, Linux, vreating labs/servers, ethical hacking 
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Cyber secruity, DevOps and BackendDev positions
+- 🌱 I’m currently learning to code in Python and Php, building projects, Bash and Linux, creating labs/servers, ethical hacking, web development 
+- 💞️ I’m looking to collaborate on projects, be it open source
 - 📫 How to reach me ...
 
 <!---
